@@ -1,0 +1,16 @@
+.Description{
+    display: flex;
+    flex-direction: row;
+}
+.DescriptionCard{
+    margin: 15px 15px;
+}
+.AbilitiesCard{
+    align-items: flex-end;
+    margin-top: 15px;
+}
+
+.nomes {
+    font-family: 'Alegreya Sans SC', sans-serif;
+    font-size: 1.5rem;
+}

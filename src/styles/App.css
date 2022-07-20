@@ -1,0 +1,22 @@
+body{
+    padding: 0%;
+    margin: 0%;
+}
+.App{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.Header{
+    background-color: aliceblue;
+    width: 100%;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+.PokemonDetails{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}

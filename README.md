@@ -5,7 +5,7 @@ An application to display Pokemon  statistics using the api publishes PokeApi
 
 
 
-## Vídeo 
+## Video 
 
 https://youtu.be/gmbJVFmNQ90
 

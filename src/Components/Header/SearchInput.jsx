@@ -13,7 +13,6 @@ export default function SearchInput() {
   function handleSubmit(event) {
     event.preventDefault();
     getPokemons(`${URL}/${inputValue}`).then(({ data }) => {
-      console.log(extractData(data));
       dispatch({ type: types.SET_POKEMON, payload: extractData(data) });
     });
   }

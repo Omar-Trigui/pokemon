@@ -11,7 +11,6 @@ function App() {
   // intialaze the pokemon state to the best pokemon ever
   useEffect(() => {
     getPokemons(`${URL}/pikachu`).then(({ data }) => {
-      console.log(extractData(data));
       dispatch({ type: types.SET_POKEMON, payload: extractData(data) });
     });
   }, [dispatch]);

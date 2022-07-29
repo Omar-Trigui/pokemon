@@ -1,0 +1,2 @@
+.headerWithLogo{display:flex;justify-content:space-around}.Description{display:flex;flex-direction:row}.DescriptionCard{margin:15px}.AbilitiesCard{align-items:flex-end;margin-top:15px}.nomes{font-family:Alegreya Sans SC,sans-serif;font-size:1.5rem}body{margin:0;padding:0}.App{flex-direction:column}.App,.Header{display:flex;justify-content:center}.Header{background-color:#f0f8ff;color:#fff;height:250px;width:100%}.PokemonDetails{align-items:center;display:flex;flex-direction:column}
+/*# sourceMappingURL=main.ec48db49.css.map*/
